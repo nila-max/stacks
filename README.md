@@ -11,7 +11,7 @@ The initial version of Stacks, launched in early 2021, introduced Bitcoin settle
 
 The Stacks layer for smart contracts has the following innovations that make it unique:<br><br>
 **S – S**ecured by the entire hash power of Bitcoin (Bitcoin finality).<br>
-**T – T**rustless Bitcoin peg mechanism; write to Bitcoin.<br>
+**T – T**rustless Bitcoin peg mechanism; write to Bitcoin.<br
 **A – A**tomic BTC swaps and assets owned by BTC addresses.<br>
 **C – C**larity language for safe, decidable contracts.<br>
 **K – K**nowledge of full Bitcoin state; read from Bitcoin.<br>
